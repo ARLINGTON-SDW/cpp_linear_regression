@@ -1,2 +1,2 @@
-# cpp_linear_regression
+# C++ Multiple Linear Regression
 Vector based multiply linear regression in C++
